@@ -1,0 +1,7 @@
+pytest
+ply
+configparser
+logging
+anytree
+graphviz
+llvmlite

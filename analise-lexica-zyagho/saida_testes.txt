@@ -1,0 +1,51 @@
+Script started on 2024-10-24 17:47:15-03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="55"]
+]0;sidinei@sidinei-Inspiron-15-3520: ~/yagho/Compiladores/compilador_python/compiler_python[01;32msidinei@sidinei-Inspiron-15-3520[00m:[01;34m~/yagho/Compiladores/compilador_python/compiler_python[00m$ exitpytest tpplex_test.py -v
+[1m=========================================================================================== test session starts ===========================================================================================[0m
+platform linux -- Python 3.8.10, pytest-8.3.3, pluggy-1.5.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/sidinei/yagho/Compiladores/compilador_python/compiler_python
+[1mcollecting ... [0m[1mcollected 37 items                                                                                                                                                                                        [0m
+
+tpplex_test.py::test_001 [32mPASSED[0m[32m                                                                                                                                                                     [  2%][0m
+tpplex_test.py::test_002 [32mPASSED[0m[32m                                                                                                                                                                     [  5%][0m
+tpplex_test.py::test_003 [32mPASSED[0m[32m                                                                                                                                                                     [  8%][0m
+tpplex_test.py::test_004 [32mPASSED[0m[32m                                                                                                                                                                     [ 10%][0m
+tpplex_test.py::test_005 [32mPASSED[0m[32m                                                                                                                                                                     [ 13%][0m
+tpplex_test.py::test_006 [32mPASSED[0m[32m                                                                                                                                                                     [ 16%][0m
+tpplex_test.py::test_007 [32mPASSED[0m[32m                                                                                                                                                                     [ 18%][0m
+tpplex_test.py::test_008 [32mPASSED[0m[32m                                                                                                                                                                     [ 21%][0m
+tpplex_test.py::test_009 [32mPASSED[0m[32m                                                                                                                                                                     [ 24%][0m
+tpplex_test.py::test_010 [32mPASSED[0m[32m                                                                                                                                                                     [ 27%][0m
+tpplex_test.py::test_011 [32mPASSED[0m[32m                                                                                                                                                                     [ 29%][0m
+tpplex_test.py::test_012 [32mPASSED[0m[32m                                                                                                                                                                     [ 32%][0m
+tpplex_test.py::test_013 [32mPASSED[0m[32m                                                                                                                                                                     [ 35%][0m
+tpplex_test.py::test_014 [32mPASSED[0m[32m                                                                                                                                                                     [ 37%][0m
+tpplex_test.py::test_015 [32mPASSED[0m[32m                                                                                                                                                                     [ 40%][0m
+tpplex_test.py::test_016 [32mPASSED[0m[32m                                                                                                                                                                     [ 43%][0m
+tpplex_test.py::test_017 [32mPASSED[0m[32m                                                                                                                                                                     [ 45%][0m
+tpplex_test.py::test_018 [32mPASSED[0m[32m                                                                                                                                                                     [ 48%][0m
+tpplex_test.py::test_019 [32mPASSED[0m[32m                                                                                                                                                                     [ 51%][0m
+tpplex_test.py::test_020 [32mPASSED[0m[32m                                                                                                                                                                     [ 54%][0m
+tpplex_test.py::test_021 [32mPASSED[0m[32m                                                                                                                                                                     [ 56%][0m
+tpplex_test.py::test_022 [32mPASSED[0m[32m                                                                                                                                                                     [ 59%][0m
+tpplex_test.py::test_023 [32mPASSED[0m[32m                                                                                                                                                                     [ 62%][0m
+tpplex_test.py::test_024 [32mPASSED[0m[32m                                                                                                                                                                     [ 64%][0m
+tpplex_test.py::test_025 [32mPASSED[0m[32m                                                                                                                                                                     [ 67%][0m
+tpplex_test.py::test_026 [32mPASSED[0m[32m                                                                                                                                                                     [ 70%][0m
+tpplex_test.py::test_027 [32mPASSED[0m[32m                                                                                                                                                                     [ 72%][0m
+tpplex_test.py::test_028 [32mPASSED[0m[32m                                                                                                                                                                     [ 75%][0m
+tpplex_test.py::test_029 [32mPASSED[0m[32m                                                                                                                                                                     [ 78%][0m
+tpplex_test.py::test_030 [32mPASSED[0m[32m                                                                                                                                                                     [ 81%][0m
+tpplex_test.py::test_031 [32mPASSED[0m[32m                                                                                                                                                                     [ 83%][0m
+tpplex_test.py::test_032 [32mPASSED[0m[32m                                                                                                                                                                     [ 86%][0m
+tpplex_test.py::test_033 [32mPASSED[0m[32m                                                                                                                                                                     [ 89%][0m
+tpplex_test.py::test_034 [32mPASSED[0m[32m                                                                                                                                                                     [ 91%][0m
+tpplex_test.py::test_035 [32mPASSED[0m[32m                                                                                                                                                                     [ 94%][0m
+tpplex_test.py::test_036 [32mPASSED[0m[32m                                                                                                                                                                     [ 97%][0m
+tpplex_test.py::test_037 [32mPASSED[0m[32m                                                                                                                                                                     [100%][0m
+
+[32m=========================================================================================== [32m[1m37 passed[0m[32m in 1.55s[0m[32m ============================================================================================[0m
+]0;sidinei@sidinei-Inspiron-15-3520: ~/yagho/Compiladores/compilador_python/compiler_python[01;32msidinei@sidinei-Inspiron-15-3520[00m:[01;34m~/yagho/Compiladores/compilador_python/compiler_python[00m$ exit
+exit
+
+Script done on 2024-10-24 17:47:23-03:00 [COMMAND_EXIT_CODE="0"]
